@@ -1,9 +1,5 @@
-remote_theme: daviddarnes/alembic@main
-plugins:
-- jekyll-remote-theme
-
+theme: minima
 title: Skiboarder
 description: Playing around with CV and Fast AI
-
 author:
   name: Matt Nemenman
